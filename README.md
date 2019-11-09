@@ -1,4 +1,4 @@
-# Noob-Excercises
+# Noob-Exercises
 A repository for Exercises given to better your programming skills
 
 **Assignment 1**
