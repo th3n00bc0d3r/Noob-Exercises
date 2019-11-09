@@ -2,6 +2,7 @@
 A repository for Exercises given to better your programming skills
 
 **Assignment 1**
+Language: HTML, CSS, Vanilla JS
 
 Create a Form with two inputs. An input for username and another for a password. Check if username and password are both equal to the following;
 
